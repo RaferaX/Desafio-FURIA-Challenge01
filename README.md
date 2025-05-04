@@ -18,6 +18,13 @@ Seu objetivo é proporcionar uma plataforma interativa onde os fãs possam acess
 
 ---
 
+## 🌐 Acesso ao Projeto
+
+Você pode acessar o projeto online clicando no link abaixo:  
+👉 [Acessar Chatbot FURIA E-sports](https://desafio-furia-challenge01.vercel.app/)
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 | Tecnologia | Descrição |
@@ -50,14 +57,13 @@ O chatbot apresenta um visual moderno, inspirado nas cores e identidade da FURIA
 ## ⚠️ Aviso Legal
 
 > Este projeto é um material de caráter **educacional e experimental**.  
-> **Não possui qualquer vínculo oficial ou parceria com a organização FURIA Esports**.
+> **Não está associado de nenhuma forma à organização FURIA Esports**.
 
 ---
 
 ## 📬 Contato
 
-Caso tenha interesse em colaborar ou dar feedback sobre este projeto, sinta-se à vontade para entrar em contato!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/rafael-leonardo-820b4328a)  
-[![Email](https://img.shields.io/badge/Email-Envie%20um%20e-mail-red)](mailto:rafael.larissinha@gmail.com)
+Caso tenha interesse em colaborar ou dar feedback sobre este projeto, entre em contato:
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Leonardo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-leonardo-820b4328a)  
+[![Email](https://img.shields.io/badge/Email-rafael.larissinha@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rafael.larissinha@gmail.com)
