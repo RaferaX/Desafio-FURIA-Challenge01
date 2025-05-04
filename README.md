@@ -1,5 +1,6 @@
 # ![image](https://static.valorantzone.gg/news/2021/04/03171153/FURIA1.png)
- Chatbot FURIA E-sports
+
+# Chatbot FURIA E-sports
 
 ## 📜 Descrição do Projeto
 Este projeto é um chatbot informativo dedicado à equipe **FURIA Esports**.  
