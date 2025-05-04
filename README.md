@@ -1,4 +1,5 @@
-# 🐍 Chatbot FURIA E-sports
+# ![image](https://github.com/user-attachments/assets/ca0da2ab-eebd-4853-a4f4-0d85908875ec)
+ Chatbot FURIA E-sports
 
 ## 📜 Descrição do Projeto
 Este projeto é um chatbot informativo dedicado à equipe **FURIA Esports**.  
