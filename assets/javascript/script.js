@@ -126,14 +126,16 @@ function obterResposta(mensagem) {
                    "1. Nossos times<br><br>" +
                    "2. Nossa história<br><br>" +
                    "3. Nossas patrocinadores<br><br>" +
-                   "3. Nossas redes sociais<br><br>" +
-                   "3. Saiba mais do Pantero Bot<br><br>" ;
+                   "4. Nossas redes sociais<br><br>" +
+                   "5. Saiba mais do Pantero Bot<br><br>" ;
         
         } else if (contextoAnterior === 'times') {
             return "Você voltou ao menu principal. O que mais gostaria de saber?<br><br>" +
                    "1. Nossos times<br><br>" +
                    "2. Nossa história<br><br>" +
-                   "3. Nossas conquistas";
+                   "3. Nossas patrocinadores<br><br>" +
+                   "4. Nossas redes sociais<br><br>" +
+                   "5. Saiba mais do Pantero Bot<br><br><br>";
         
         } else {
             return "Você está no menu principal. Digite o número da opção desejada.";
