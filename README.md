@@ -1,4 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/ca0da2ab-eebd-4853-a4f4-0d85908875ec)
+# ![image](https://static.valorantzone.gg/news/2021/04/03171153/FURIA1.png)
  Chatbot FURIA E-sports
 
 ## 📜 Descrição do Projeto
